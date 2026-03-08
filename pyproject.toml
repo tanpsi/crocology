@@ -24,10 +24,10 @@ requires-python = ">=3.10"
 dependencies = []
 
 [project.urls]
-homepage = "https://github.com/infinitrix/crocology"
-documentation = "https://infinitrix.github.io/crocology"
-source = "https://github.com/infinitrix/crocology"
-issues = "https://github.com/infinitrix/crocology/issues"
+homepage = "https://github.com/infinitrix-math/crocology"
+documentation = "https://infinitrix-math.github.io/crocology"
+source = "https://github.com/infinitrix-math/crocology"
+issues = "https://github.com/infinitrix-math/crocology/issues"
 
 [dependency-groups]
 dev = [
